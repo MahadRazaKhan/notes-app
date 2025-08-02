@@ -1,11 +1,12 @@
-# 📒 Full-Stack Note-Taking Application (CRUD API + Frontend)
+# Full-Stack Note-Taking Application (CRUD API + Frontend)
+![App Screenshot]()  
 
 A complete Note-Taking application built using **Node.js**, **Express.js**, **MySQL**, and **Vanilla JavaScript**.  
 This project provides a **RESTful CRUD API** for backend operations and a responsive frontend to manage notes seamlessly.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Create new notes with title & content
 - View all notes or a specific note by ID
@@ -18,14 +19,11 @@ This project provides a **RESTful CRUD API** for backend operations and a respon
 
 ---
 
-## 📹 Demo
-
-![Note-Taking App Demo](demo.gif)  
-*(Replace `demo.gif` with your actual recorded GIF showing the app in action)*
+![Note-Taking App Demo](https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif)  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend:**
 - Node.js
@@ -44,7 +42,7 @@ This project provides a **RESTful CRUD API** for backend operations and a respon
 
 ---
 
-## 📌 API Endpoints
+## API Endpoints
 
 | Method | Endpoint         | Description                   |
 |--------|-----------------|--------------------------------|
@@ -56,9 +54,3 @@ This project provides a **RESTful CRUD API** for backend operations and a respon
 
 ---
 
-## ⚙️ Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/note-taking-app.git
-   cd note-taking-app
