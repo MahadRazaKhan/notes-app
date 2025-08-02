@@ -1,5 +1,5 @@
 # Full-Stack Note-Taking Application (CRUD API + Frontend)
-![App Screenshot]()  
+![App Screenshot](ss01.png)  
 A complete Note-Taking application built using **Node.js**, **Express.js**, **MySQL**, and **Vanilla JavaScript**.  
 This project provides a **RESTful CRUD API** for backend operations and a responsive frontend to manage notes seamlessly.
 
