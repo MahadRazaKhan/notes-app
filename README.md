@@ -47,4 +47,4 @@ This project provides a **RESTful CRUD API** for backend operations and a respon
 | DELETE | `/notes/:id`    | Delete note                    |
 
 ---
-Taking App Demo](https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif) ![Note-Taking App Demo](https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif)  
+![Note-Taking App Demo](https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif)  
